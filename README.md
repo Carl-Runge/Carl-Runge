@@ -1,11 +1,9 @@
 I’m @Carl-Runge
 
-I’m currently learning C++ and C#
+I’m currently Improving my C++ and C# skills
 
-I am a Student at the S4G untill 30th of September 2022
-
-And my Dream is to be Working for Crytek or Ubisoft
+I was a Student at the School 4 Games untill 30th of September
 
 
-My Contacts
-- e-Mail: rungecarla@gmail.com
+Contact:
+- email: rungecarla@gmail.com
